@@ -71,7 +71,7 @@ O bot utiliza horários específicos para abrir e fechar as ordens, com base em 
 2. **Baixar ou Clonar o Repositório**:
    - Se ainda não tiver, clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   https://github.com/diegosivabr/Bot-de-Trading-Automatizado-para-MetaTrader-5-MT5-em-Python.git
    ```
 
 3. **Configurando o Script**:
